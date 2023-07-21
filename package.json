@@ -1,8 +1,8 @@
 {
-  "name": "@vitejs/plugin-basic-ssl-vue2",
-  "version": "1.0.0",
+  "name": "plugin-basic-ssl-vue2",
+  "version": "1.0.1",
   "license": "MIT",
-  "author": "Evan You and Vite Contributors",
+  "author": "huangshihu1992",
   "files": [
     "dist"
   ],
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vitejs/vite-plugin-basic-ssl.git"
+    "url": "git+https://github.com/huangshihu1992/vite-plugin-basic-ssl-vue2"
   },
   "bugs": {
-    "url": "https://github.com/vitejs/vite-plugin-basic-ssl/issues"
+    "url": "https://github.com/huangshihu1992/vite-plugin-basic-ssl-vue2/issues"
   },
-  "homepage": "https://github.com/vitejs/vite-plugin-basic-ssl/#readme",
+  "homepage": "https://github.com/huangshihu1992/vite-plugin-basic-ssl-vue2/#readme",
   "peerDependencies": {
     "vite": "2.9.9"
   },

@@ -1,4 +1,4 @@
-# @vitejs/plugin-basic-ssl [![npm](https://img.shields.io/npm/v/@vitejs/plugin-basic-ssl.svg)](https://npmjs.com/package/@vitejs/plugin-basic-ssl)
+# plugin-basic-ssl-vue2 [![npm](https://img.shields.io/npm/v/@vitejs/plugin-basic-ssl.svg)](https://www.npmjs.com/package/plugin-basic-ssl-vue2)
 
 A plugin to generate untrusted certificates which still allows to access the page after proceeding a wall with warning.
 
@@ -8,7 +8,7 @@ In most scenarios, it is recommended to generate a secure trusted certificate in
 
 ```js
 // vite.config.js
-import basicSsl from '@vitejs/plugin-basic-ssl'
+import basicSsl from 'plugin-basic-ssl-vue2'
 
 export default {
   plugins: [
